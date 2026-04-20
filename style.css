@@ -76,10 +76,16 @@ h1 {
     }
 
     .button-head {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        margin: 17px 65vw;
+        margin: 0 0 0 50vw;
+        width: 91px;
+        height: 31px;
+        font-weight: 500;
+        font-size: 12px;
+        background-color: #6FBF44;
+        color: #ffffff;
+        border-radius: 7px;
+        border: none;
+        letter-spacing: 1px;
     }
 
     .img-logo {
@@ -93,12 +99,15 @@ h1 {
         font-size: 30px;
         line-height: 30px;
         letter-spacing: .6px;
-        width: 100vw;
+        width: 278px;
+        height: 60px;
         text-align: center;
     }
-    
+
     .lorem {
-        width: 100vw;
+        width: 300px;
+        height: 60px;
+        letter-spacing: 1px;
         text-align: center;
         line-height: 30px;
         font-size: 15px;
